@@ -1,3 +1,3 @@
-# Express
+# Biometric node service
 
-Boilerplate for node express project with mysql, joi, response middleware &amp; JWT locker.
+(Postman Collection)[https://github.com/mkhizeryounas/biometric_node_service]
